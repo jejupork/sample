@@ -1,8 +1,46 @@
-깃허브 따라하기 예제
-테스트
+# 현상태
+1차면접은 합격했고 마지막 면접(대표)이 남아있음.
 
-테스트 목록
-commit
-push
-clone
-rta
+# 육아휴직
+- 기간: 2026년 1월 21일(희망) ~ 2026년 5월 1일(102일)
+- 신청을 30일 이전에 해야하고 7일 전까지 취소를 할 수 있음 [관련내용](https://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%82%A8%EB%85%80%EA%B3%A0%EC%9A%A9%ED%8F%89%EB%93%B1%EA%B3%BC+%EC%9D%BC%E3%86%8D%EA%B0%80%EC%A0%95+%EC%96%91%EB%A6%BD+%EC%A7%80%EC%9B%90%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0+%EC%8B%9C%ED%96%89%EB%A0%B9&joNo=001100000&languageType=KO&paras=1#)<br>
+  합격한 뒤에 신청하면 늦을 것 같아서 미리 신청하려고 합니다. 불합격된다면 취소하고 다시 신청하거나 변경 예정.<br>
+- 어린이집 적응기간이 주마다 일과시간을 늘려서 적응하는 일정이어서 3월 한 달 적응기까지 육아휴직을 하고 이후에는 단축근무를 생각<br>
+  ex) 1주차에는 등원하고 부모와 함께 2시간, 2주차에는 등원하고 4시간 등등 서서히 적응하도록 되어있음.<br>
+  마지막 주에 풀 일과시간을 적용하면서 적응을 잘 못할 수도 있고 적응하더라도 좀 더 케어를 해주면 좋을 것 같다고 생각해서 4월까지 하면 좋을 것 같습니다.
+  이후로는 단축근무를 생각하고 있습니다.
+
+# 회사업무
+- 어린이집 등원 전까지 재택근무형태로 지원할 수 있습니다. (집중 업무시간을 정해서하면 좋을 것 같습니다.)
+- 어린이집 등원 이후에는 주차가 진행됨에 따라 더 많은 시간을 업무에 쓸 수 있을 것으로 예상됩니다. (주차별로 일과시간이 늘어나서)
+
+# 육아기 단축근무
+- 육아기 근로시간 단축 기간 중의 근로시간은 주당 15시간 이상이어야 하고 35시간을 넘어서는 안 됩니다. [관련내용](https://www.law.go.kr/LSW/LsiJoLinkP.do?docType=JO&lsNm=%EB%82%A8%EB%85%80%EA%B3%A0%EC%9A%A9%ED%8F%89%EB%93%B1%EA%B3%BC+%EC%9D%BC%E3%86%8D%EA%B0%80%EC%A0%95+%EC%96%91%EB%A6%BD+%EC%A7%80%EC%9B%90%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&joNo=001900002&languageType=KO&paras=1#)
+- 어린이집 일과시간: 9시 등원 ~ 4시 하원
+- 퇴근시간: 1시간 10~30분
+
+## 1. 5월 한 달
+### 등원, 하원 모두 할 경우
+```
+9시 등원 -> 10시 출근
+단축근무 4시간 -> 3시에 퇴근
+```
+
+### 하원만 할 경우
+```
+9시 출근
+단축근무 3시간 -> 3시에 퇴근
+```
+
+## 2. 이후(6월부터)
+```
+9시 출근
+단축근무 2시간 -> 4시에 퇴근
+```
+
+<br><br>
+참고한 내용<br>
+[육아휴직 및 육아기 근로시간 단축](https://easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=1112&ccfNo=5&cciNo=2&cnpClsNo=2)<br>
+[육아휴직](https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=626&ccfNo=3&cciNo=3&cnpClsNo=1)<br>
+[육아기 근로시간 단축](https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1380&ccfNo=2&cciNo=2&cnpClsNo=1&menuType=cnpcls&search_put=)<br>
+<br><br><br>
